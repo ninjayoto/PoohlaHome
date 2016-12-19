@@ -7,8 +7,6 @@ Submitted by: ninjayoto
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
-
 ![Imgur](http://i.imgur.com/tWpjh0e.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
