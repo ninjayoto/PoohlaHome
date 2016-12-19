@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Poohla Home</string>
+    <string name="connection_snackbar">Cannot retrieve data, please check your connection</string>
+    <string name="perm_denied">Internet permission denied</string>
+    <string name="perm_granted">Internet permission granted</string>
+    <string name="img_url_start">http://d2snwnmzyr8jue.cloudfront.net/</string>
+
+</resources>
