@@ -4,8 +4,6 @@ PoohlaHome is an android app that demonstrates a nested horizontal recyclerView
 
 Submitted by: ninjayoto
 
-Time spent: 3 hours spent in total
-
 
 ## Video Walkthrough 
 
